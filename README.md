@@ -7,7 +7,7 @@
 <h2>Minha atividade no GitHub 📊</h2>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzouhr&show_icons=true&theme=radical&count_private=true&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzouhr&show_icons=true&theme=radical&count_private=true&hide_border=false&locale=pt-br"/>
 </div>
 
 <p>
