@@ -17,14 +17,22 @@
 <div>
   
   <a>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
   </a>
 
   <p>
     Ao longo do tempo irei adicionar mais linguagens ao meu repertório de conhecimentos.
   </p>
 
+</div>
 
+<div>
+
+<h2>Tecnologias que eu uso (20/04/2024)</h2>
+
+<a>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</a>
   
 </div>
 
