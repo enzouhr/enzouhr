@@ -6,12 +6,6 @@
   Sou um desenvolvedor apaixonado por jogos e criar sistemas, utilizando Java para desenvolver meus sistemas. Estou em evolução constante para melhorar minhas capacidades.
 </p>
 
-<h2>Minha atividade no GitHub 📊</h2>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzouhr&show_icons=true&theme=radical&count_private=true&hide_border=false&locale=pt-br"/>
-</div>
-
 <h2>Linguagens que utilizo (27/03/2024)</h2>
 
 <div>
