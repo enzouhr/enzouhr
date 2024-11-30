@@ -22,10 +22,11 @@
 
 <div>
 
-<h2>Tecnologias que eu uso (20/04/2024)</h2>
+<h2>Tecnologias que eu uso (30/11/2024)</h2>
 
 <a>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </a>
   
 </div>
